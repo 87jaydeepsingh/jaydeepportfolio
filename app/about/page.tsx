@@ -3,14 +3,14 @@ import { Code2, Briefcase, GraduationCap, Heart, Sparkles, Zap, Layers, Database
 const skills = [
   { name: "JavaScript", icon: Zap },
   { name: "TypeScript", icon: Code2 },
+  { name: "Wordpress", icon: Container },
   { name: "React", icon: Layers },
   { name: "Next.js", icon: Globe },
   { name: "Node.js", icon: Server },
   { name: "MongoDB", icon: Database },
-  { name: "PostgreSQL", icon: Database },
+  { name: "MySqL", icon: Database },
   { name: "Python", icon: Terminal },
   { name: "Git", icon: GitBranch },
-  { name: "Wordpress", icon: Container },
 ]
 
 const experiences = [
