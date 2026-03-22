@@ -108,8 +108,19 @@ export default function AboutPage() {
           </div>
           <h2 className="text-2xl font-bold tracking-tight">Education</h2>
         </div>
+
         <div className="mt-6 rounded-xl border border-border bg-card p-6 shadow-sm transition-all hover:border-primary/30 hover:shadow-md">
           <div className="flex flex-wrap items-start justify-between gap-2">
+            <div>
+              <h3 className="font-semibold">Bachelor of Computer Science</h3>
+              <p className="text-muted-foreground">University Name</p>
+            </div>
+            <span className="rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
+              2014 - 2018
+            </span>
+          </div>
+
+           <div className="flex flex-wrap items-start justify-between gap-2">
             <div>
               <h3 className="font-semibold">Bachelor of Computer Science</h3>
               <p className="text-muted-foreground">University Name</p>
