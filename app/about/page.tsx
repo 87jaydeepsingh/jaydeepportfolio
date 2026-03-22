@@ -110,21 +110,35 @@ export default function AboutPage() {
         <div className="mt-6 rounded-xl border border-border bg-card p-6 shadow-sm transition-all hover:border-primary/30 hover:shadow-md">
           <div className="flex flex-wrap items-start justify-between gap-2">
             <div>
-              <h3 className="font-semibold">Bachelor of Computer Science</h3>
-              <p className="text-muted-foreground">University Name</p>
+              <h3 className="font-semibold">Master of Computer Applications</h3>
+              <p className="text-muted-foreground">Thakur Institute of Management Studies, Career Development & Research</p>
             </div>
             <span className="rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
-              2014 - 2018
+              2020 - 2022
             </span>
           </div>
+        </div>
 
-           <div className="flex flex-wrap items-start justify-between gap-2">
+        <div className="mt-6 rounded-xl border border-border bg-card p-6 shadow-sm transition-all hover:border-primary/30 hover:shadow-md">
+          <div className="flex flex-wrap items-start justify-between gap-2">
             <div>
-              <h3 className="font-semibold">Bachelor of Computer Science</h3>
-              <p className="text-muted-foreground">University Name</p>
+              <h3 className="font-semibold">Bachelor of Science Infomation Technology</h3>
+              <p className="text-muted-foreground">Patkar Varde College</p>
             </div>
             <span className="rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
-              2014 - 2018
+              2016 - 2019
+            </span>
+          </div>
+        </div>
+
+        <div className="mt-6 rounded-xl border border-border bg-card p-6 shadow-sm transition-all hover:border-primary/30 hover:shadow-md">
+          <div className="flex flex-wrap items-start justify-between gap-2">
+            <div>
+              <h3 className="font-semibold">Science</h3>
+              <p className="text-muted-foreground">Thikamdas purshottam bhatia jr collge of science</p>
+            </div>
+            <span className="rounded-full bg-primary/10 px-3 py-1 text-sm font-medium text-primary">
+              2014 - 2016
             </span>
           </div>
         </div>
