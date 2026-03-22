@@ -17,7 +17,7 @@ const experiences = [
   {
     title: "Senior Software Developer",
     company: "SaffireTech",
-    period: "2022 - Present",
+    period: "Mar 2022 - Present",
     description: "WordPress Plugin, WooCommerce, Learndash Developer",
   },
   {
