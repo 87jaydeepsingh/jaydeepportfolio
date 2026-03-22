@@ -8,11 +8,9 @@ const skills = [
   { name: "Node.js", icon: Server },
   { name: "MongoDB", icon: Database },
   { name: "PostgreSQL", icon: Database },
-  { name: "Tailwind CSS", icon: Sparkles },
   { name: "Python", icon: Terminal },
   { name: "Git", icon: GitBranch },
-  { name: "Docker", icon: Container },
-  { name: "AWS", icon: Cloud },
+  { name: "Wordpress", icon: Container },
 ]
 
 const experiences = [
