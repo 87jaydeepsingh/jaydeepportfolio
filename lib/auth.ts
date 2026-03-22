@@ -2,7 +2,6 @@ import { cookies } from "next/headers"
 
 const ADMIN_USERNAME = "admin"
 const ADMIN_PASSWORD = "q8pJygcT"
-
 const SESSION_COOKIE_NAME = "admin_session"
 const SESSION_SECRET = "jaydeep-portfolio-admin-secret-2024"
 
@@ -35,7 +34,7 @@ export async function getSession(): Promise<string | null> {
 export async function isAuthenticated(): Promise<boolean> {
   const session = await getSession()
   if (!session) return false
-  
+
   try {
     const decoded = Buffer.from(session, "base64").toString()
     return decoded.startsWith(SESSION_SECRET)
