@@ -11,7 +11,7 @@ export function Footer() {
         </p>
         <div className="flex items-center gap-4">
           <Link
-            href="https://github.com"
+            href="https://github.com/87jaydeepsingh"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground transition-colors hover:text-foreground"
@@ -20,7 +20,7 @@ export function Footer() {
             <span className="sr-only">GitHub</span>
           </Link>
           <Link
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/jaydeep-s/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground transition-colors hover:text-foreground"
@@ -29,7 +29,7 @@ export function Footer() {
             <span className="sr-only">LinkedIn</span>
           </Link>
           <Link
-            href="mailto:hello@example.com"
+            href="mailto:jaydeepsingh8767@gmail.com"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
             <Mail className="h-5 w-5" />
