@@ -66,7 +66,7 @@ export default function HomePage() {
             {/* Social Links */}
             <div className="mt-8 flex items-center justify-center gap-4 lg:justify-start">
               <a
-                href="https://github.com"
+                href="https://github.com/87jaydeepsingh"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex h-11 w-11 items-center justify-center rounded-xl bg-card text-muted-foreground shadow-sm transition-all hover:scale-110 hover:bg-accent hover:text-foreground"
@@ -74,7 +74,7 @@ export default function HomePage() {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/jaydeep-s/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex h-11 w-11 items-center justify-center rounded-xl bg-card text-muted-foreground shadow-sm transition-all hover:scale-110 hover:bg-accent hover:text-foreground"
@@ -82,7 +82,7 @@ export default function HomePage() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="mailto:jaydeep@example.com"
+                href="mailto:jaydeepsingh8767@gmail.com"
                 className="flex h-11 w-11 items-center justify-center rounded-xl bg-card text-muted-foreground shadow-sm transition-all hover:scale-110 hover:bg-accent hover:text-foreground"
               >
                 <Mail className="h-5 w-5" />
