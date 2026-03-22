@@ -17,22 +17,16 @@ const skills = [
 
 const experiences = [
   {
-    title: "Senior Developer",
-    company: "Tech Company",
+    title: "Senior Software Developer",
+    company: "SaffireTech",
     period: "2022 - Present",
-    description: "Leading frontend development and mentoring junior developers.",
+    description: "WordPress Plugin, WooCommerce, Learndash Developer",
   },
   {
-    title: "Full Stack Developer",
-    company: "Startup Inc",
-    period: "2020 - 2022",
-    description: "Built and maintained web applications using React and Node.js.",
-  },
-  {
-    title: "Junior Developer",
-    company: "Agency Co",
-    period: "2018 - 2020",
-    description: "Developed responsive websites and learned best practices.",
+    title: "Operation Executive",
+    company: "Infosys",
+    period: "Jul 2019 - Mar 2021",
+    description: "Worked on vmware Technologies and powershell",
   },
 ]
 
