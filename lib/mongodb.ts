@@ -7,7 +7,6 @@ import { MongoClient, Db } from "mongodb"
 // const uri = process.env.MONGODB_URI
 const uri = "mongodb+srv://Vercel-Admin-atlas-jaydeeps:dyNOtMPeRHajO8l4@atlas-jaydeeps.kqwpzxm.mongodb.net/?retryWrites=true&w=majority"
 const options = {}
-const options = {}
 
 let client: MongoClient
 let clientPromise: Promise<MongoClient>
